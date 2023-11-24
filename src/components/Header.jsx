@@ -1,9 +1,9 @@
 import React from "react";
 const Header = () =>{
     return(
-        <div className="container">
-            Hellp
-        </div>
+        <h1 className="container" >
+            Рецепты
+        </h1>
     );
 };
 
